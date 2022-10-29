@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dreamCover/static/css/main.93c42900.chunk.css",
-    "main.js": "/dreamCover/static/js/main.77b8c69b.chunk.js",
-    "main.js.map": "/dreamCover/static/js/main.77b8c69b.chunk.js.map",
-    "runtime-main.js": "/dreamCover/static/js/runtime-main.72ac11d4.js",
-    "runtime-main.js.map": "/dreamCover/static/js/runtime-main.72ac11d4.js.map",
-    "static/js/2.4fec26cc.chunk.js": "/dreamCover/static/js/2.4fec26cc.chunk.js",
-    "static/js/2.4fec26cc.chunk.js.map": "/dreamCover/static/js/2.4fec26cc.chunk.js.map",
-    "index.html": "/dreamCover/index.html",
-    "precache-manifest.2519040757298c70790fead0139d0e6b.js": "/dreamCover/precache-manifest.2519040757298c70790fead0139d0e6b.js",
-    "service-worker.js": "/dreamCover/service-worker.js",
-    "static/css/main.93c42900.chunk.css.map": "/dreamCover/static/css/main.93c42900.chunk.css.map",
-    "static/js/2.4fec26cc.chunk.js.LICENSE.txt": "/dreamCover/static/js/2.4fec26cc.chunk.js.LICENSE.txt",
-    "static/media/00.jpg": "/dreamCover/static/media/00.d92563b3.jpg",
-    "static/media/logo-192.png": "/dreamCover/static/media/logo-192.dca47fb4.png"
+    "main.css": "/dream_cover/static/css/main.93c42900.chunk.css",
+    "main.js": "/dream_cover/static/js/main.77b8c69b.chunk.js",
+    "main.js.map": "/dream_cover/static/js/main.77b8c69b.chunk.js.map",
+    "runtime-main.js": "/dream_cover/static/js/runtime-main.2f0a6c14.js",
+    "runtime-main.js.map": "/dream_cover/static/js/runtime-main.2f0a6c14.js.map",
+    "static/js/2.dc299cf3.chunk.js": "/dream_cover/static/js/2.dc299cf3.chunk.js",
+    "static/js/2.dc299cf3.chunk.js.map": "/dream_cover/static/js/2.dc299cf3.chunk.js.map",
+    "index.html": "/dream_cover/index.html",
+    "precache-manifest.688d7729657c88f190a4cd238324f84e.js": "/dream_cover/precache-manifest.688d7729657c88f190a4cd238324f84e.js",
+    "service-worker.js": "/dream_cover/service-worker.js",
+    "static/css/main.93c42900.chunk.css.map": "/dream_cover/static/css/main.93c42900.chunk.css.map",
+    "static/js/2.dc299cf3.chunk.js.LICENSE.txt": "/dream_cover/static/js/2.dc299cf3.chunk.js.LICENSE.txt",
+    "static/media/00.jpg": "/dream_cover/static/media/00.d92563b3.jpg",
+    "static/media/logo-192.png": "/dream_cover/static/media/logo-192.dca47fb4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.72ac11d4.js",
-    "static/js/2.4fec26cc.chunk.js",
+    "static/js/runtime-main.2f0a6c14.js",
+    "static/js/2.dc299cf3.chunk.js",
     "static/css/main.93c42900.chunk.css",
     "static/js/main.77b8c69b.chunk.js"
   ]
